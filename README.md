@@ -1,7 +1,7 @@
-## Oiii eu sou  Andressa Matos, Designer e Desenvolvedora
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oiii eu sou  Andressa Matos
+## Designer e Desenvolvedora
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Andressa-matos/Andressa-matos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
 </div>
